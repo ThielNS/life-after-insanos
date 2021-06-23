@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Laranja",
+    "day": "Domingo",
+    "image": "",
+  },
+  {
+    "id": "2",
+    "name": "Laranja",
+    "day": "Segunda",
+    "image": "",
+  },
+  {
+    "id": "3",
+    "name": "Laranja",
+    "day": "Terça",
+    "image": "",
+  },
+  {
+    "id": "4",
+    "name": "Manga",
+    "day": "Quarta",
+    "image": "",
+  },
+  {
+    "id": "5",
+    "name": "Manga",
+    "day": "Quinta",
+    "image": "",
+  },
+  {
+    "id": "6",
+    "name": "Maçã",
+    "day": "Sexta",
+    "image": "",
+  },
+  {
+    "id": "7",
+    "name": "Maçã",
+    "day": "Sábado",
+    "image": "",
+  }
+]
