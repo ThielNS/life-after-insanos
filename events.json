@@ -12,4 +12,17 @@
       }
     ]
   }
+  {
+    "day": "Terça",
+    "data": [
+      {
+        "id": "2",    
+        "day": "Terça",
+        "hour": "23:00",
+        "title": "Caravana Charles Town",
+        "shortDescription": "União dos membros da camp para farmar na base de Charles Town.",
+        "longDescription": "Levem machado e picareta, cura, muita comida e uma arma (por precaução).\nColhem o que puder, hemp, wood e stone. De preferência farmar hemp e tin ore porque madeira e pedra já temos bastante.\nQuando encher o inventario, volte para base e coloque os itens no cofre.\nAndam em grupo, caso houver ataque, um ajuda o outro.\nContamos com a ajuda de todos!",
+      }
+    ]
+  }
 ]
