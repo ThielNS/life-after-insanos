@@ -1,6 +1,15 @@
 [
   {
-    "id": "1",
-    "title": "Infected Boss",
+    "day": "Domingo",
+    "data": [
+      {
+        "id": "1",    
+        "day": "Domingo",
+        "hour": "22:00",
+        "title": "Infected Boss (Mina)",
+        "shortDescription": "Missão da camp onde todos podem participar para enfrentar um boss.",
+        "longDescription": "Para se proteger do especial do boss da mina, você precisará pegar as escadas das caixas que caem no campo de batalha, instalar e subir, assim que a barra amarela do especial encher.",
+      }
+    ]
   }
 ]
