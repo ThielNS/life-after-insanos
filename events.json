@@ -3,12 +3,12 @@
     "day": "Domingo",
     "data": [
       {
-        "id": "1",    
+        "id": "1",
         "day": "Domingo",
         "hour": "22:00",
         "title": "Infected Boss (Mina)",
         "shortDescription": "Missão da camp onde todos podem participar para enfrentar um boss.",
-        "longDescription": "Para se proteger do especial do boss da mina, você precisará pegar as escadas das caixas que caem no campo de batalha, instalar e subir, assim que a barra amarela do especial encher.",
+        "longDescription": "Para se proteger do especial do boss da mina, você precisará pegar as escadas das caixas que caem no campo de batalha, instalar e subir, assim que a barra amarela do especial encher."
       }
     ]
   }
@@ -21,7 +21,7 @@
         "hour": "23:00",
         "title": "Caravana Charles Town",
         "shortDescription": "União dos membros da camp para farmar na base de Charles Town.",
-        "longDescription": "Levem machado e picareta, cura, muita comida e uma arma (por precaução).\nColhem o que puder, hemp, wood e stone. De preferência farmar hemp e tin ore porque madeira e pedra já temos bastante.\nQuando encher o inventario, volte para base e coloque os itens no cofre.\nAndam em grupo, caso houver ataque, um ajuda o outro.\nContamos com a ajuda de todos!",
+        "longDescription": "Levem machado e picareta, cura, muita comida e uma arma (por precaução).\nColhem o que puder, hemp, wood e stone. De preferência farmar hemp e tin ore porque madeira e pedra já temos bastante.\nQuando encher o inventario, volte para base e coloque os itens no cofre.\nAndam em grupo, caso houver ataque, um ajuda o outro.\nContamos com a ajuda de todos!"
       }
     ]
   }
