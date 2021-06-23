@@ -37,5 +37,18 @@
         "longDescription": "Olá pessoal, hoje às 23H teremos a invasão nós portões da Camp.\n\nEstejam online antes do horário para não ficarem de fora.\n\nTodos que participar receberão recompensas do evento.\n\nOBSERVAÇÃO: NÃO PEGUEM AS BARRICADAS DOS PORTÕES POR FAVOR, POIS VAMOS PRECISAR DELAS.\n\nContamos com a ajuda de todos, juntos somos mais fortes❤️\n\nOBSERVAÇÃO: deixem apenas a call do local ligada, a call da camp e para os líderes de cada portão."
       }
     ]
+  },
+  {
+    "day": "Quinta",
+    "data": [
+      {
+        "id": "4",
+        "day": "Quinta",
+        "hour": "22:00",
+        "title": "Infected Boss (Deserto)",
+        "shortDescription": "Missão da camp onde todos podem participar para enfrentar um boss.",
+        "longDescription": "Para se proteger do especial do boss do deserto, você precisará pegar as barricadas das caixas que caem no campo de batalha, instalar, posicionar-se atrás e abaixar, assim que a barra amarela do especial encher."
+      }
+    ]
   }
 ]
