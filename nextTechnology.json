@@ -1,4 +1,7 @@
 {
   "title": "Nome da tecnologia",
-  "categoryName": "Militar"
+  "category": {
+    "name": "Natureza",
+    "type": 1
+  }
 }
