@@ -1,2 +1,38 @@
 [
+  {
+    "id": "1",
+    "name": "Old Oak",
+    "quantity": {
+      "amount": 450,
+      "current": 2637
+    },
+    "image": "https://raw.githubusercontent.com/ThielNS/life-after-insanos/main/images/resources/211248jvluarj0xzi0caqj.png"
+  },
+  {
+    "id": "2",
+    "name": "Birch Root",
+    "quantity": {
+      "amount": 450,
+      "current": 1
+    },
+    "image": "https://raw.githubusercontent.com/ThielNS/life-after-insanos/main/images/resources/211249xpp38t8olpolo33l.png"
+  },
+  {
+    "id": "3",
+    "name": "Kenaf Bast",
+    "quantity": {
+      "amount": 360,
+      "current": 0
+    },
+    "image": ""
+  },
+  {
+    "id": "4",
+    "name": "Pyrargyrite",
+    "quantity": {
+      "amount": 450,
+      "current": 450
+    },
+    "image": ""
+  }
 ]
