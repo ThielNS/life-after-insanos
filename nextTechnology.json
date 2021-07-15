@@ -1,7 +1,8 @@
 {
-  "title": "Undead Soldier",
+  "title": "Tenacius Farmer",
+  "image": "https://raw.githubusercontent.com/ThielNS/life-after-insanos/main/images/technologies/tenacius-farmer.jpg",
   "category": {
-    "name": "Militar",
-    "type": 3
+    "name": "Natureza",
+    "type": 1
   }
 }
