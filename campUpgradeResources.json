@@ -4,7 +4,7 @@
     "name": "Old Oak",
     "quantity": {
       "amount": 450,
-      "current": 2656
+      "current": 2741
     },
     "image": "https://raw.githubusercontent.com/ThielNS/life-after-insanos/main/images/resources/211248jvluarj0xzi0caqj.png"
   },
@@ -13,7 +13,7 @@
     "name": "Birch Root",
     "quantity": {
       "amount": 450,
-      "current": 405
+      "current": 469
     },
     "image": "https://raw.githubusercontent.com/ThielNS/life-after-insanos/main/images/resources/211249xpp38t8olpolo33l.png"
   },
@@ -22,7 +22,7 @@
     "name": "Kenaf Bast",
     "quantity": {
       "amount": 360,
-      "current": 0
+      "current": 420
     },
     "image": ""
   },
